@@ -7,6 +7,8 @@
 
 Otro problema al momento de estimar los tiempos es cuánto cobrarle al cliente
 
+No sólo se trata de encontrar gente que use otras tecnologías, sino otras formas de hacer negocios y de ganar dinero.  Es posible que encuentres oportunidades donde otros no las han visto, tan sólo porque no ha llegado nadie para propornerlas.  No te enfoques sólo a entender los problemas de los clientes de la empresa donde trabajes.
+
 ¿Cuánto se debe cobrar?
 
 Esto es muy variante a nivel mundial, dependiendo de tu experiencia como desarrollador se puede ir desde los 30 a 60 dólares por hora y si son soluciones muy complejas pueden ir desde 80 y 150 dólares por hora. Pero es mejor llegar a un consenso entre programadores conocidos para tener un precio establecido.
